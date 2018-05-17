@@ -34,7 +34,7 @@
      "pagePath": "pages/index/index",
       "iconPath": "images/nav/home-off.png",
       "selectedIconPath": "images/nav/home-on.png",
-      "text": "首页"
+      "text": "首页a"
     }, {
       "pagePath": "pages/shop-cart/index",
       "iconPath": "images/nav/cart-off.png",
